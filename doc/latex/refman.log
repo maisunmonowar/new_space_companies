@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.23)  23 MAR 2020 16:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.23)  28 APR 2020 17:48
 entering extended mode
 **./refman.tex
 (refman.tex
@@ -700,7 +700,23 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count302
 \l__pdf_internal_box=\box114
 )
-(refman.aux)
+(refman.aux
+
+LaTeX Warning: Label `pagex_pagexsec1sub1' multiply defined.
+
+
+LaTeX Warning: Label `pagex_pagexsec1sub1' multiply defined.
+
+
+LaTeX Warning: Label `pagex_company2' multiply defined.
+
+
+LaTeX Warning: Label `pagex_pagexsec1sub1' multiply defined.
+
+
+LaTeX Warning: Label `pagex_company2' multiply defined.
+
+)
 \openout1 = `refman.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 150.
@@ -891,9 +907,7 @@ LaTeX Warning: Font shape declaration has incorrect series value `mc'.
 )
 LaTeX Font Info:    Font shape `TS1/phv/b/n' will be
 (Font)              scaled to size 8.99994pt on input line 169.
- [1] [2
-
-]
+ [1] [2]
 Package hyperref Info: Option `pageanchor' set `true' on input line 171.
 
 Chapter 1.
@@ -918,41 +932,118 @@ LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
 (Font)              scaled to size 8.99994pt on input line 6.
 ) [1
 
+
 ] [2
 
 ]
 Chapter 2.
+(cat.tex) [3] [4
+
+]
+Chapter 3.
 LaTeX Font Info:    Font shape `TS1/phv/bc/n' will be
-(Font)              scaled to size 22.39185pt on input line 176.
+(Font)              scaled to size 22.39185pt on input line 180.
 (pagea.tex
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 10.79993pt on input line 2.
-) [3] [4
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 4.
+
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1pcr.fd"
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)) [5]
+[6
+
+]
+Chapter 4.
+(pagei.tex) [7] [8
+
+]
+Chapter 5.
+(pagem.texpdfTeX warning (ext4): destination with the same identifier (name{pag
+ex_pagexsec1sub1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2 ...rovider.\hypertarget{pagex_pagexsec1sub1}{}
+                                                  \doxysubsection{section 1 ...
+) [9] [10
+
+]
+Chapter 6.
+(pagep.texpdfTeX warning (ext4): destination with the same identifier (name{pag
+ex_pagexsec1sub1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3 ...alactic.\hypertarget{pagex_pagexsec1sub1}{}
+                                                  \doxysubsection{section 1 ...
+pdfTeX warning (ext4): destination with the same identifier (name{pagex_company
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4 ... place holder\hypertarget{pagex_company2}{}
+                                                  \doxysection{Company Name ...
+) [11] [12
+
+]
+Chapter 7.
+(pages.tex) [13] [14
+
+]
+Chapter 8.
+(paget.tex) [15] [16
+
+]
+Chapter 9.
+(pageu.tex) [17] [18
+
+]
+Chapter 10.
+(pagev.tex) [19] [20
+
+]
+Chapter 11.
+(pagex.texpdfTeX warning (ext4): destination with the same identifier (name{pag
+ex_pagexsec1sub1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2 ...e holder\hypertarget{pagex_pagexsec1sub1}{}
+                                                  \doxysubsection{section 1 ...
+pdfTeX warning (ext4): destination with the same identifier (name{pagex_company
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3 ... place holder\hypertarget{pagex_company2}{}
+                                                  \doxysection{Company Name ...
+) [21] [22
 
 ] (refman.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 190.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 190.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 226.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 226.
  (refman.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 190.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 190.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 226.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 226.
 Package rerunfilecheck Info: File `refman.out' has not changed.
-(rerunfilecheck)             Checksum: BD6D76C5C5913003A3FC85174FA8B5CB;922.
+(rerunfilecheck)             Checksum: B57A346FB03A58C3F9B81543AD218AFA;7312.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 16366 strings out of 480934
- 237095 string characters out of 2909679
- 512163 words of memory out of 3000000
- 31915 multiletter control sequences out of 15000+200000
- 571662 words of font info for 64 fonts, out of 3000000 for 9000
+ 16589 strings out of 480934
+ 240124 string characters out of 2909679
+ 519705 words of memory out of 3000000
+ 32024 multiletter control sequences out of 15000+200000
+ 572283 words of font info for 66 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,15n,96p,944b,347s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,15n,96p,944b,373s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
-KTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/urw/helvetic/uhvb8ac.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/he
-lvetic/uhvr8a.pfb>
-Output written on refman.pdf (8 pages, 39137 bytes).
+KTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helv
+etic/uhvb8ac.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.p
+fb>
+Output written on refman.pdf (26 pages, 102285 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 426 PDF objects out of 1000 (max. 8388607)
+ 111 named destinations out of 1000 (max. 500000)
+ 361 words of extra memory for PDF output out of 10000 (max. 10000000)
 

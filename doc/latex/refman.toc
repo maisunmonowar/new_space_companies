@@ -1,7 +1,46 @@
 \@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
 \contentsline {chapter}{\numberline {1}New\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Space Companies}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Goal}{1}{section.1.1}%
-\contentsline {chapter}{\numberline {2}Companies Name starting with \textquotesingle {}A\textquotesingle {}}{3}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Airbus}{3}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}section 1 subsection 1}{3}{subsection.2.1.1}%
-\contentsline {section}{\numberline {2.2}Axelspace}{3}{section.2.2}%
+\contentsline {chapter}{\numberline {2}Satellite companies by category}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Business}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}R\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ND}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.3}rocket\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Rocket}{3}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Remote Sensing}{3}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Communication}{3}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Space factory}{3}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Tourism}{3}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Japan}{3}{section.2.8}%
+\contentsline {section}{\numberline {2.9}U\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}SA}{3}{section.2.9}%
+\contentsline {chapter}{\numberline {3}Companies Name starting with \textquotesingle {}A\textquotesingle {}}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Airbus}{5}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}section 1 subsection 1}{5}{subsection.3.1.1}%
+\contentsline {section}{\numberline {3.2}A\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}LE}{5}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Astroscale}{5}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Axelspace}{5}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Companies Name starting with \textquotesingle {}I\textquotesingle {}}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Interstellar Technologies Inc.}{7}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}section 1 subsection 1}{7}{subsection.4.1.1}%
+\contentsline {section}{\numberline {4.2}i\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Space}{7}{section.4.2}%
+\contentsline {section}{\numberline {4.3}i\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Q\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}PS}{7}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Companies Name starting with \textquotesingle {}M\textquotesingle {}}{9}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Systems Japan}{9}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}section 1 subsection 1}{9}{subsection.5.1.1}%
+\contentsline {section}{\numberline {5.2}Company Name 2}{9}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Companies Name starting with \textquotesingle {}P\textquotesingle {}}{11}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Pepti\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Dream}{11}{section.6.1}%
+\contentsline {section}{\numberline {6.2}P\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}D Aerospace}{11}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}section 1 subsection 1}{11}{subsection.6.2.1}%
+\contentsline {section}{\numberline {6.3}Company Name 2}{11}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Companies Name starting with \textquotesingle {}S\textquotesingle {}}{13}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Space\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}BD}{13}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Space Shift}{13}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Companies Name starting with \textquotesingle {}T\textquotesingle {}}{15}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Tellus}{15}{section.8.1}%
+\contentsline {chapter}{\numberline {9}Companies Name starting with \textquotesingle {}U\textquotesingle {}}{17}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Umitron}{17}{section.9.1}%
+\contentsline {chapter}{\numberline {10}Companies Name starting with \textquotesingle {}V\textquotesingle {}}{19}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Vision Tech}{19}{section.10.1}%
+\contentsline {chapter}{\numberline {11}Companies Name starting with \textquotesingle {}X\textquotesingle {}}{21}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Company Name 1}{21}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}section 1 subsection 1}{21}{subsection.11.1.1}%
+\contentsline {section}{\numberline {11.2}Company Name 2}{21}{section.11.2}%

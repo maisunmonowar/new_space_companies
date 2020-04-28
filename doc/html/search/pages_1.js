@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['newspace_20companies_7',['NewSpace Companies',['../index.html',1,'']]]
+  ['newspace_20companies_42',['NewSpace Companies',['../index.html',1,'']]]
 ];
