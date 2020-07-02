@@ -24,4 +24,6 @@ They are going to cleanu all sat debris.
 @section axelspace	Axelspace
 Japan.
 [Axelspace Website](https://www.axelspace.com/en/ "Axelspace")
-Founded in 2008. A remote sensing company. The company plans to launch 50 satellites by 2022. 
+Founded in 2008. A remote sensing company. The company plans to launch 50 satellites by 2022.
+CEO: Yuya Nakamura san. 
+Hopes to achiever high resolution, high frequency data. A potential market they are targeting are the northern sea routes. To give the ships, up to date information on iceberg formation. Image resolution are 2.5 meters. 
